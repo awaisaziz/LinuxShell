@@ -1,0 +1,18 @@
+a) What did I work on in the last three days?
+	- Brainstormed design ideas with team for saveJShell class.
+	- Implemented few commands instruction for the Manual class
+	- Updated the Verify class for the Manual class
+	- Updated the prepare class for the Manual class
+
+b) What do I plan to work in the next three days?
+	- Write the base code for the saveJShell class
+	- Still have to finish the Manual class
+	- Create a helper class for the saveJShell class
+	- Work on the Crc-Card design for the Manual and saveJshell class.
+	- Will have to update all the classes which needs to get saved by the saveJShell class
+	- Have to Create a new function for the saveJShell class inside the Verify class
+	- Have to Create a new function for the saveJShell class inside the Prepare class
+
+c) Am I blocked on anything?
+	- Still have to figure out what saveJShell should save so that when loadJShell is called it will bring back the status of JShell
+	- saveJShell requires a helper class not sure at the moment if it is really required. If it does then I will create crc-card

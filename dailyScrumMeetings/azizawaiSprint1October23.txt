@@ -1,0 +1,12 @@
+a) What did I work on in the last three days?
+	- Brainstormed design ideas with team for pwd and path class.
+
+b) What do I plan to work in the next three days?
+	- Work on the Crc-Card design for the pwd and path class.
+	- Work on the design of Directory class.
+	- Write the initial code for the path class.
+	- Write the initial code for the pwd class.
+
+c) Am I blocked on anything?
+	- Need a structure of the shell to verify path and pwd implementation works.
+	- Need a better design idea for CRC-Card.

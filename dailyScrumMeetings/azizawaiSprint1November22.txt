@@ -1,0 +1,20 @@
+a) What did I work on in the last three days?
+	- Wrote the base code for the saveJShell class
+	- Created a helper class Operating System class for saveJShell class
+	- Created a new function for the saveJShell class inside the Verify class
+	- Created a new function for the saveJShell class inside the Prepare class
+	- Modified execute the class to run and test saveJShell class
+	- updated all the classes which needs to get saved by the saveJShell class
+
+b) What do I plan to work in the next three days?
+	- Finish the saveJShell class and work on load JShell class accordingly
+	- Still have to fix the Crc-card for the saveJShell class
+	- Still have to finish the Manual class
+	- Work on the Crc-Card design for the Manual, loadJShell and saveJshell class.
+	- Have to Create a new function for the loadJShell class inside the Verify class
+	- Have to Create a new function for the loadJShell class inside the Prepare class
+	- Have to create a helper class that keeps track of the order of things that get read and stored in a file for saveJShell and loadJShell class
+
+c) Am I blocked on anything?	
+	- Still have to figure out how loadJShell returning values can get assigned to the current JShell session so that JShell have the previous session values
+	- How loadJShell will take care of wrong file being read

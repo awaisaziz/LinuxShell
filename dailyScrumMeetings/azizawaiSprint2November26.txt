@@ -1,0 +1,18 @@
+a) What did I work on in the last three days?
+	- Finished the saveJShell class
+	- Finished verification for the saveJShell class
+	- Finished the preparation method for the saveJShell Class
+	- Completed the implementation for loadJShell class
+	- Completed the verification for the loadJShell class
+	- Finished the preparation method for the loadJShell Class
+	- Updated the loadJShell and saveJShell CRC-Card
+	- Uploaded the modified JShell class
+	- Modified the Crc-Card for the JShell class
+
+b) What do I plan to work in the next three days?
+	- Complete the implementation of the Manual class
+	- Create JUnit test case
+	- Finish the Javadoc for the loadJShell class
+
+c) Am I blocked on anything?	
+	- Implement a better design for the Manual class

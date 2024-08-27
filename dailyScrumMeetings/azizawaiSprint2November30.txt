@@ -1,0 +1,17 @@
+a) What did I work on in the last three days?
+	- Finished the saveJShell class
+	- Completed the implementation for loadJShell class
+	- Completed the verification for the loadJShell class
+	- Finished the preparation method for the loadJShell Class
+	- Updated the loadJShell and saveJShell CRC-Card
+	- Uploaded the modified JShell class
+	- Modified the Crc-Card for the JShell class
+	- Uploaded the Manual class
+	- Created JUnit test for Execute, saveJShell, loadJShell and Manual classes
+	- Worked on Path class and made it a generic class
+
+b) What do I plan to work in the next three days?
+	- Will complete the CatMe Evaluation survey
+
+c) Am I blocked on anything?
+	- None

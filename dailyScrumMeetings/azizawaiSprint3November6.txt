@@ -1,0 +1,17 @@
+a) What did I work on in the last three days?
+	- Did Pair programming with Saad on Jshell, Exit and CommandHandler java files
+	- Updated the print Working Directory class
+	- Finished the code for Manual class
+	- Uploaded the code for the Execute class
+	- Fixed few bugs in execute class
+
+b) What do I plan to work in the next three days?
+	- Update the CRC-Card
+	- Have to update the code of the related class accordingly after new CRC-Card changes
+	- Complete somewhat Javadoc for few class
+	- Write Junit test for Print Working Directory Class
+	- Discuss few design pattern with team member and fix the design of the project
+
+c) Am I blocked on anything?
+	- Facing a design problem for our code
+	

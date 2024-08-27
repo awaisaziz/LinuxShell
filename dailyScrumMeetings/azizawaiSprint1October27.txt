@@ -1,0 +1,17 @@
+a) What did I work on in the last three days?
+	- Discussed working structure of directory and path class.
+	- Wrote the base code for the path class
+	- Completed the implementation code for the pwd class
+	- Wrote the initial code for the directory class
+	
+b) What do I plan to work in the next three days?
+	- Finish the implementation of Directory class.
+	- Brainstorm the functionality of all the other class for manual class
+	- Work on the design of Command Handler Class
+	- Write the base code for the manual class
+	- Modify the print working directory class code
+
+c) Am I blocked on anything?
+	- Need the parent class to fix the error in my print working directory class
+	- Needs to understand the working of directory class
+	

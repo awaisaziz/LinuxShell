@@ -1,0 +1,14 @@
+a) What did I work on in the last three days?
+	- Finished the implementation of Directory class
+	- Uploaded the parent class CommandHandler with base code
+	- Fixed the print working directory class accordingly after uploading the CommandHandler class
+	- Brainstorm the functionality of all the other class for manual
+
+b) What do I plan to work in the next three days?
+	- Work on the design of Command Handler Class
+	- Discuss CRC-Card for Command Handler Class
+	- Write the base code for the manual class
+
+c) Am I blocked on anything?
+	- understand the functionality of command popd, pushd DIR and few other commands
+	- Still confuse about the responsibility of CommandHandler at the moment
